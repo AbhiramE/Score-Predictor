@@ -1,7 +1,7 @@
 # Alternative to Duckworth Lewis method using Machine Learning
 
 ## Report
-The report is available ![here](/ML.pdf). 
+The report is available [a relative link](ML.pdf). 
 
 The overall layout of the project is broken down into packages according to their task.
 
