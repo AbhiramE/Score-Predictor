@@ -12,11 +12,11 @@ We have 3 packages,
 
 
 ## 1. Collection
-    * Item 1 The collection folder contains the code for scarping the data from the site.
-    * Item 2 Scraper contains all the scaper functions for specific types of data, like ground average, team average
+* The collection folder contains the code for scarping the data from the site.
+* Scraper contains all the scaper functions for specific types of data, like ground average, team average
     etc.
-    * Item 3 data_file_cleaner cleans the ground averages scraped and adds that to csv file.
-    * Item 4 convertor.py This file builds the dataset with the required features for first innings and second innings.
+* data_file_cleaner cleans the ground averages scraped and adds that to csv file.
+* convertor.py This file builds the dataset with the required features for first innings and second innings.
 
 ## 2. Learning
     This folder contains all the model trained.
@@ -35,6 +35,6 @@ We have 3 packages,
     The evaluation folder contains evaluation.py which contains the final prediction on the test data.Edit the link to the pickle to evaluate different models. Then execute the file to obtain the ML RMSE and DL RMSE. The evaluation files for the each innings is contained in the respective folders.
 
 ### Running a file:
-* Item 1 All files in Learning are runnable provided the the datasets are obtained.
-* Item 2 All files in Evaluation are runnable provided respective pickles are available for the files.
-* Item 3 The scaper files can be run my calling the functions for respective features.
+* All files in Learning are runnable provided the the datasets are obtained.
+* All files in Evaluation are runnable provided respective pickles are available for the files.
+* The scaper files can be run my calling the functions for respective features.
