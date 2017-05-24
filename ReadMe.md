@@ -32,7 +32,9 @@ We have 3 packages,
     best parameters obtained. It then saves the best fit model as a pickle.
 
 ## 3. Evaluation
-    The evaluation folder contains evaluation.py which contains the final prediction on the test data.Edit the link to the pickle to evaluate different models. Then execute the file to obtain the ML RMSE and DL RMSE. The evaluation files for the each innings is contained in the respective folders.
+    The evaluation folder contains evaluation.py which contains the final prediction on the test data. 
+    Edit the link to the pickle to evaluate different models. Then execute the file to obtain the ML RMSE 
+    and DL RMSE. The evaluation files for the each innings is contained in the respective folders.
 
 ### Running a file:
 * All files in Learning are runnable provided the the datasets are obtained.
