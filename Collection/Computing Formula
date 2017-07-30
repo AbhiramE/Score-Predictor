@@ -1,9 +1,0 @@
-Scenario 40 over interruption reduced to 45 overs, 1st innings
-
-Wickets-> 5*wickets remaining
-Balls_non_powerplay -> all_overs/6
-Balls_power_play -> lost_balls_power_play/12
-
-Score within pitch average  +5 or -5 no penalize
-If score greater cut 5 runs from predicted score.
-If score lesser add 5 runs to predicted score.
