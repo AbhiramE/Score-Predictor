@@ -1,7 +1,7 @@
 # Alternative to Duckworth Lewis method using Machine Learning
 
 ## Report
-You can read about the motivation for the project, the details of implementation and the results [here](ML.pdf). 
+You can read about the motivation for the project, the details of implementation and the results [here](docs/ML.pdf). 
 
 The overall layout of the project is broken down into packages according to their task.
 

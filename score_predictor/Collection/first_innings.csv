@@ -1,0 +1,1269 @@
+,match_id,balls,score,wickets,ground,ground_average,wickets_remaining,powerplay_balls,non_powerplay_balls
+0,1,215,157,4,Eden Gardens,242,6,0,85
+1,2,215,168,4,County Ground,204,6,0,85
+2,3,215,147,4,Kennington Oval,246,6,0,85
+3,4,215,104,5,"Warner Park, Basseterre",247,5,0,85
+4,5,215,226,2,Gaddafi Stadium,248,8,0,85
+5,6,215,224,3,National Stadium,214,7,0,85
+6,7,215,139,4,Lord's,233,6,0,85
+7,8,215,208,3,"Sir Vivian Richards Stadium, North Sound",225,7,0,85
+8,10,215,193,3,Nehru Stadium,231,7,0,85
+9,10,215,200,3,Nehru Stadium,231,7,0,85
+10,11,215,201,4,Sydney Cricket Ground,220,6,0,85
+11,12,215,141,5,"Sir Vivian Richards Stadium, North Sound",225,5,0,85
+12,13,215,177,4,Trent Bridge,246,6,0,85
+13,15,215,170,6,Gaddafi Stadium,248,4,0,85
+14,18,215,175,3,Sheikh Zayed Stadium,231,7,0,85
+15,19,215,206,9,Pallekele International Cricket Stadium,250,1,0,85
+16,20,215,174,3,Feroz Shah Kotla,250,7,0,85
+17,21,215,194,5,New Wanderers Stadium,238,5,0,85
+18,22,215,123,3,"Beausejour Stadium, Gros Islet",208,7,0,85
+19,23,215,209,4,Sydney Cricket Ground,220,6,0,85
+20,26,215,167,3,Newlands,243,7,0,85
+21,27,215,168,3,Melbourne Cricket Ground,240,7,0,85
+22,28,215,182,4,Hagley Oval,250,6,0,85
+23,29,215,192,2,Sheikh Zayed Stadium,231,8,0,85
+24,30,215,147,6,Greater Noida Sports Complex Ground,250,4,0,85
+25,30,215,148,6,Greater Noida Sports Complex Ground,250,4,0,85
+26,31,215,170,2,Khan Shaheb Osman Ali Stadium,250,8,0,85
+27,32,215,217,2,Harare Sports Club,214,8,0,85
+28,33,215,192,2,Sheikh Abu Naser Stadium,199,8,0,85
+29,34,215,146,5,R Premadasa Stadium,214,5,0,85
+30,35,215,140,4,Sharjah Cricket Stadium,250,6,0,85
+31,36,215,155,4,Sheikh Zayed Stadium,231,6,0,85
+32,37,215,186,1,Sheikh Zayed Stadium,231,9,0,85
+33,38,215,174,3,Shere Bangla National Stadium,214,7,0,85
+34,39,215,111,9,Westpac Stadium,208,1,0,85
+35,40,215,208,2,Manuka Oval,285,8,0,85
+36,41,215,145,3,P Saravanamuttu Stadium,250,7,0,85
+37,42,215,148,7,Feroz Shah Kotla,250,3,0,85
+38,43,215,145,3,New Wanderers Stadium,238,7,0,85
+39,44,215,165,4,R Premadasa Stadium,214,6,0,85
+40,45,215,211,4,Sophia Gardens,192,6,0,85
+41,46,215,155,3,"Sardar Patel Stadium, Motera",224,7,0,85
+42,47,215,156,4,"Sabina Park, Kingston",221,6,0,85
+43,48,215,131,8,Sydney Cricket Ground,220,2,0,85
+44,49,215,205,2,St George's Park,215,8,0,85
+45,51,215,144,3,Queens Sports Club,220,7,0,85
+46,52,215,160,5,Providence Stadium,211,5,0,85
+47,53,215,175,6,SuperSport Park,231,4,0,85
+48,54,215,148,5,Gymkhana Club Ground,193,5,0,85
+49,55,215,166,3,Dubai International Cricket Stadium,221,7,0,85
+50,56,215,105,5,VRA Ground,225,5,0,85
+51,57,215,163,5,Melbourne Cricket Ground,240,5,0,85
+52,58,215,212,2,National Stadium,214,8,0,85
+53,59,215,142,6,Rangiri Dambulla International Stadium,201,4,0,85
+54,60,215,193,3,SuperSport Park,231,7,0,85
+55,61,215,246,4,McLean Park,259,6,0,85
+56,63,215,192,3,Melbourne Cricket Ground,240,7,0,85
+57,64,215,203,3,Eden Gardens,242,7,0,85
+58,65,215,129,9,New Wanderers Stadium,238,1,0,85
+59,66,215,143,6,Hagley Oval,250,4,0,85
+60,67,215,181,3,"Punjab Cricket Association Stadium, Mohali",256,7,0,85
+61,68,215,195,4,Sharjah Cricket Stadium,250,6,0,85
+62,69,215,121,4,Marrara Cricket Ground,250,6,0,85
+63,70,215,147,6,Rangiri Dambulla International Stadium,201,4,0,85
+64,70,215,148,6,Rangiri Dambulla International Stadium,201,4,0,85
+65,71,215,119,3,Sophia Gardens,192,7,0,85
+66,72,215,154,4,Harare Sports Club,214,6,0,85
+67,73,215,141,8,Harare Sports Club,214,2,0,85
+68,74,215,218,4,R Premadasa Stadium,214,6,0,85
+69,75,215,92,6,Gymkhana Club Ground,193,4,0,85
+70,76,215,149,4,Sheikh Zayed Stadium,231,6,0,85
+71,77,215,165,5,Shere Bangla National Stadium,214,5,0,85
+72,78,215,161,9,Bay Oval,250,1,0,85
+73,79,215,137,5,"Sabina Park, Kingston",221,5,0,85
+74,80,215,145,5,"Nehru Stadium, Fatorda",231,5,0,85
+75,83,215,178,3,Bellerive Oval,245,7,0,85
+76,83,215,179,3,Bellerive Oval,245,7,0,85
+77,84,215,171,3,Kingsmead,243,7,0,85
+78,85,215,129,6,"Arnos Vale Ground, Kingstown",180,4,0,85
+79,86,215,110,5,Kinrara Academy Oval,204,5,0,85
+80,87,215,160,5,New Wanderers Stadium,238,5,0,85
+81,88,215,187,5,McLean Park,259,5,0,85
+82,89,215,161,3,Shere Bangla National Stadium,214,7,0,85
+83,90,215,135,4,Hagley Oval,250,6,0,85
+84,91,215,154,5,Queens Sports Club,220,5,0,85
+85,92,215,166,5,Edgbaston,203,5,0,85
+86,93,215,163,4,Nehru Stadium,231,6,0,85
+87,94,215,171,3,Melbourne Cricket Ground,240,7,0,85
+88,95,215,158,2,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,256,8,0,85
+89,99,215,190,4,Headingley,283,6,0,85
+90,101,215,145,6,"Mission Road Ground, Mong Kok",250,4,0,85
+91,102,215,199,3,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,256,7,0,85
+92,103,215,156,4,Dubai International Cricket Stadium,221,6,0,85
+93,104,215,184,4,"Brisbane Cricket Ground, Woolloongabba",218,6,0,85
+94,105,215,165,3,Khan Shaheb Osman Ali Stadium,250,7,0,85
+95,106,215,207,3,Sydney Cricket Ground,220,7,0,85
+96,108,215,220,6,SuperSport Park,231,4,0,85
+97,109,215,188,3,"Sabina Park, Kingston",221,7,0,85
+98,110,215,163,4,"Sardar Patel Stadium, Motera",224,6,0,85
+99,111,215,183,3,R Premadasa Stadium,214,7,0,85
+100,112,215,204,5,"Kensington Oval, Bridgetown",187,5,0,85
+101,114,215,189,3,ICC Global Cricket Academy,250,7,0,85
+102,114,215,190,3,ICC Global Cricket Academy,250,7,0,85
+103,115,215,161,5,Headingley,283,5,0,85
+104,116,215,206,3,Melbourne Cricket Ground,240,7,0,85
+105,117,215,207,3,Kingsmead,243,7,0,85
+106,118,215,149,5,Shere Bangla National Stadium,214,5,0,85
+107,119,215,168,5,Western Australia Cricket Association Ground,227,5,0,85
+108,120,215,147,7,Edgbaston,203,3,0,85
+109,121,215,158,3,Kennington Oval,246,7,0,85
+110,122,215,158,4,Gaddafi Stadium,248,6,0,85
+111,124,215,160,4,Melbourne Cricket Ground,240,6,0,85
+112,125,215,195,2,Dubai International Cricket Stadium,221,8,0,85
+113,126,215,128,3,Dubai International Cricket Stadium,221,7,0,85
+114,127,215,173,4,Hagley Oval,250,6,0,85
+115,128,215,233,3,"Punjab Cricket Association Stadium, Mohali",256,7,0,85
+116,129,215,219,4,The Rose Bowl,250,6,0,85
+117,130,215,177,9,Wankhede Stadium,256,1,0,85
+118,132,215,178,3,Shere Bangla National Stadium,214,7,0,85
+119,133,215,183,2,Melbourne Cricket Ground,240,8,0,85
+120,134,215,207,6,R Premadasa Stadium,214,4,0,85
+121,135,215,167,4,Adelaide Oval,230,6,0,85
+122,136,215,165,4,"Vidarbha Cricket Association Stadium, Jamtha",280,6,0,85
+123,138,215,159,5,Sydney Cricket Ground,220,5,0,85
+124,139,215,146,5,"National Cricket Stadium, St George's",216,5,0,85
+125,140,215,169,1,Shere Bangla National Stadium,214,9,0,85
+126,141,215,182,4,Western Australia Cricket Association Ground,227,6,0,85
+127,142,215,202,3,Shere Bangla National Stadium,214,7,0,85
+128,143,215,142,5,Queens Sports Club,220,5,0,85
+129,144,215,165,6,New Wanderers Stadium,238,4,0,85
+130,145,215,212,5,Melbourne Cricket Ground,240,5,0,85
+131,146,215,176,2,"Windsor Park, Roseau",247,8,0,85
+132,148,215,226,3,De Beers Diamond Oval,250,7,0,85
+133,149,215,199,5,National Stadium,214,5,0,85
+134,151,215,115,5,Harare Sports Club,214,5,0,85
+135,152,215,168,3,Shere Bangla National Stadium,214,7,0,85
+136,154,215,156,7,Kinrara Academy Oval,204,3,0,85
+137,155,215,207,3,SuperSport Park,231,7,0,85
+138,156,215,143,5,Melbourne Cricket Ground,240,5,0,85
+139,157,215,116,6,Riverside Ground,214,4,0,85
+140,159,215,169,2,Adelaide Oval,230,8,0,85
+141,160,215,144,2,Lord's,233,8,0,85
+142,161,215,145,8,Multan Cricket Stadium,226,2,0,85
+143,162,215,118,7,Shere Bangla National Stadium,214,3,0,85
+144,163,215,113,7,Edgbaston,203,3,0,85
+145,164,215,105,6,Queens Sports Club,220,4,0,85
+146,165,215,218,1,"National Cricket Stadium, St George's",216,9,0,85
+147,166,215,146,4,New Wanderers Stadium,238,6,0,85
+148,167,215,213,2,Manuka Oval,285,8,0,85
+149,168,215,221,3,Newlands,243,7,0,85
+150,169,215,218,2,Headingley,283,8,0,85
+151,170,215,255,2,Sedgars Park,250,8,0,85
+152,171,215,186,3,JSCA International Stadium Complex,250,7,0,85
+153,174,215,196,1,Seddon Park,235,9,0,85
+154,175,215,129,8,Sharjah Cricket Stadium,250,2,0,85
+155,176,215,167,8,St George's Park,215,2,0,85
+156,177,215,165,4,"Punjab Cricket Association Stadium, Mohali",256,6,0,85
+157,179,215,107,7,Sydney Cricket Ground,220,3,0,85
+158,180,215,107,6,Narayanganj Osmani Stadium,250,4,0,85
+159,181,215,188,2,Shere Bangla National Stadium,214,8,0,85
+160,182,215,144,4,Shere Bangla National Stadium,214,6,0,85
+161,183,215,210,6,Barabati Stadium,259,4,0,85
+162,184,215,192,2,R Premadasa Stadium,214,8,0,85
+163,186,215,204,2,McLean Park,259,8,0,85
+164,187,215,195,2,Adelaide Oval,230,8,0,85
+165,188,215,133,5,Mombasa Sports Club Ground,224,5,0,85
+166,190,215,155,4,The Rose Bowl,250,6,0,85
+167,191,215,134,5,"Beausejour Stadium, Gros Islet",208,5,0,85
+168,192,215,141,6,Holkar Cricket Stadium,280,4,0,85
+169,193,215,134,5,"Punjab Cricket Association Stadium, Mohali",256,5,0,85
+170,194,215,139,6,JSCA International Stadium Complex,250,4,0,85
+171,195,215,123,7,Rangiri Dambulla International Stadium,201,3,0,85
+172,195,215,124,7,Rangiri Dambulla International Stadium,201,3,0,85
+173,196,215,177,3,Providence Stadium,211,7,0,85
+174,197,215,178,3,Feroz Shah Kotla,250,7,0,85
+175,198,215,166,6,Wankhede Stadium,256,4,0,85
+176,199,215,191,4,The Rose Bowl,250,6,0,85
+177,200,215,165,5,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,250,5,0,85
+178,201,215,164,2,Sheikh Zayed Stadium,231,8,0,85
+179,202,215,145,5,Sheikh Zayed Stadium,231,5,0,85
+180,204,215,145,4,"Civil Service Cricket Club, Stormont",177,6,0,85
+181,205,215,91,8,Shere Bangla National Stadium,214,2,0,85
+182,206,215,161,4,Eden Park,219,6,0,85
+183,207,215,192,5,R Premadasa Stadium,214,5,0,85
+184,208,215,138,2,VRA Ground,225,8,0,85
+185,209,215,149,3,"Antigua Recreation Ground, St John's",227,7,0,85
+186,210,215,119,6,"Sabina Park, Kingston",221,4,0,85
+187,211,215,172,4,Queens Sports Club,220,6,0,85
+188,211,215,173,4,Queens Sports Club,220,6,0,85
+189,212,215,166,3,Green Park,263,7,0,85
+190,215,215,209,2,Kennington Oval,246,8,0,85
+191,216,215,193,3,"MA Chidambaram Stadium, Chepauk",225,7,0,85
+192,217,215,223,2,Cobham Oval (New),250,8,0,85
+193,219,215,158,3,Harare Sports Club,214,7,0,85
+194,220,215,266,1,Western Australia Cricket Association Ground,227,9,0,85
+195,222,215,199,3,"Sir Vivian Richards Stadium, North Sound",225,7,0,85
+196,223,215,141,6,"Brisbane Cricket Ground, Woolloongabba",218,4,0,85
+197,224,215,173,2,Shere Bangla National Stadium,214,8,0,85
+198,225,215,181,2,Wankhede Stadium,256,8,0,85
+199,226,215,152,4,Edgbaston,203,6,0,85
+200,227,215,146,3,"Arnos Vale Ground, Kingstown",180,7,0,85
+201,228,215,140,5,R Premadasa Stadium,214,5,0,85
+202,230,215,135,6,Cambusdoon New Ground,163,4,0,85
+203,231,215,206,4,"Warner Park, Basseterre",247,6,0,85
+204,232,215,148,6,"Beausejour Stadium, Gros Islet",208,4,0,85
+205,233,215,128,6,St George's Park,215,4,0,85
+206,234,215,212,3,New Wanderers Stadium,238,7,0,85
+207,234,215,213,3,New Wanderers Stadium,238,7,0,85
+208,235,215,128,6,McLean Park,259,4,0,85
+209,236,215,201,2,"Grange Cricket Club Ground, Raeburn Place",250,8,0,85
+210,237,215,150,5,Melbourne Cricket Ground,240,5,0,85
+211,239,215,148,5,Lord's,233,5,0,85
+212,240,215,133,4,Zahur Ahmed Chowdhury Stadium,183,6,0,85
+213,242,215,146,9,Dubai Sports City Cricket Stadium,250,1,0,85
+214,243,215,146,5,Sinhalese Sports Club Ground,167,5,0,85
+215,244,215,199,3,Eden Park,219,7,0,85
+216,245,215,141,6,Lord's,233,4,0,85
+217,246,215,172,4,Bellerive Oval,245,6,0,85
+218,247,215,113,7,Sydney Cricket Ground,220,3,0,85
+219,248,215,178,3,SuperSport Park,231,7,0,85
+220,249,215,131,5,Edgbaston,203,5,0,85
+221,250,215,237,2,Kingsmead,243,8,0,85
+222,251,215,155,6,McLean Park,259,4,0,85
+223,252,215,126,6,Adelaide Oval,230,4,0,85
+224,253,215,221,2,R Premadasa Stadium,214,8,0,85
+225,254,215,124,9,Queens Sports Club,220,1,0,85
+226,256,215,198,4,SuperSport Park,231,6,0,85
+227,257,215,188,3,Harare Sports Club,214,7,0,85
+228,258,215,163,5,Kingsmead,243,5,0,85
+229,259,215,166,3,AMI Stadium,228,7,0,85
+230,260,215,130,5,Pallekele International Cricket Stadium,250,5,0,85
+231,261,215,131,4,"Beausejour Stadium, Gros Islet",208,6,0,85
+232,262,215,176,4,Harare Sports Club,214,6,0,85
+233,264,215,185,3,Pallekele International Cricket Stadium,250,7,0,85
+234,265,215,151,4,Multan Cricket Stadium,226,6,0,85
+235,266,215,235,3,Kennington Oval,246,7,0,85
+236,268,215,214,2,Sophia Gardens,192,8,0,85
+237,269,215,145,6,Trent Bridge,246,4,0,85
+238,270,215,137,4,Providence Stadium,211,6,0,85
+239,271,215,139,5,Shere Bangla National Stadium,214,5,0,85
+240,271,215,141,5,Shere Bangla National Stadium,214,5,0,85
+241,272,215,170,5,National Stadium,214,5,0,85
+242,273,215,203,3,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,7,0,85
+243,274,215,164,6,SuperSport Park,231,4,0,85
+244,276,215,195,2,Gaddafi Stadium,248,8,0,85
+245,277,215,181,2,New Wanderers Stadium,238,8,0,85
+246,278,215,138,5,Riverside Ground,214,5,0,85
+247,279,215,203,4,"Sabina Park, Kingston",221,6,0,85
+248,281,215,182,2,Melbourne Cricket Ground,240,8,0,85
+249,282,215,190,4,Melbourne Cricket Ground,240,6,0,85
+250,284,215,118,5,St George's Park,215,5,0,85
+251,285,215,181,5,"Warner Park, Basseterre",247,5,0,85
+252,286,215,163,5,Sharjah Cricket Stadium,250,5,0,85
+253,287,215,150,3,"Punjab Cricket Association Stadium, Mohali",256,7,0,85
+254,288,215,170,5,"Windsor Park, Roseau",247,5,0,85
+255,289,215,133,5,Queens Sports Club,220,5,0,85
+256,290,215,193,3,Sydney Cricket Ground,220,7,0,85
+257,292,215,110,5,Adelaide Oval,230,5,0,85
+258,292,215,111,5,Adelaide Oval,230,5,0,85
+259,293,215,177,7,Shere Bangla National Stadium,214,3,0,85
+260,294,215,152,4,Captain Roop Singh Stadium,291,6,0,85
+261,295,215,189,2,"Punjab Cricket Association Stadium, Mohali",256,8,0,85
+262,296,215,110,8,Harare Sports Club,214,2,0,85
+263,297,215,153,4,Riverside Ground,214,6,0,85
+264,298,215,232,2,Eden Gardens,242,8,0,85
+265,299,215,213,3,Old Trafford,206,7,0,85
+266,300,215,169,4,"Brisbane Cricket Ground, Woolloongabba",218,6,0,85
+267,301,215,160,3,"National Cricket Stadium, St George's",216,7,0,85
+268,302,215,189,3,Sawai Mansingh Stadium,235,7,0,85
+269,303,215,183,1,The Rose Bowl,250,9,0,85
+270,306,215,142,8,University Oval,250,2,0,85
+271,307,215,197,4,Hagley Oval,250,6,0,85
+272,308,215,145,5,Sheikhupura Stadium,184,5,0,85
+273,309,215,159,4,"Warner Park, Basseterre",247,6,0,85
+274,310,215,135,2,Harare Sports Club,214,8,0,85
+275,311,215,140,5,Harare Sports Club,214,5,0,85
+276,312,215,182,3,Seddon Park,235,7,0,85
+277,313,215,155,6,"Queen's Park Oval, Port of Spain",199,4,0,85
+278,314,215,229,2,New Wanderers Stadium,238,8,0,85
+279,315,215,201,1,Edgbaston,203,9,0,85
+280,317,215,185,4,"Punjab Cricket Association Stadium, Mohali",256,6,0,85
+281,318,215,151,4,Lord's,233,6,0,85
+282,319,215,185,3,Gaddafi Stadium,248,7,0,85
+283,320,215,137,4,Dubai International Cricket Stadium,221,6,0,85
+284,321,215,182,3,McLean Park,259,7,0,85
+285,322,215,174,4,Harare Sports Club,214,6,0,85
+286,323,215,168,4,"National Cricket Stadium, St George's",216,6,0,85
+287,324,215,175,4,Senwes Park,246,6,0,85
+288,325,215,164,6,"Beausejour Stadium, Gros Islet",208,4,0,85
+289,326,215,120,7,"Sir Vivian Richards Stadium, North Sound",225,3,0,85
+290,328,215,122,4,Sheikh Zayed Stadium,231,6,0,85
+291,329,215,120,7,SuperSport Park,231,3,0,85
+292,330,215,270,1,Trent Bridge,246,9,0,85
+293,331,215,149,2,Adelaide Oval,230,8,0,85
+294,332,215,131,7,R Premadasa Stadium,214,3,0,85
+295,333,215,182,3,Eden Gardens,242,7,0,85
+296,334,215,110,8,Clontarf Cricket Club Ground,250,2,0,85
+297,335,215,168,4,Westpac Stadium,208,6,0,85
+298,336,215,129,5,AMI Stadium,228,5,0,85
+299,337,215,171,2,Sharjah Cricket Association Stadium,250,8,0,85
+300,338,215,174,7,"Brisbane Cricket Ground, Woolloongabba",218,3,0,85
+301,339,215,216,0,Pallekele International Cricket Stadium,250,10,0,85
+302,340,215,103,7,Westpac Stadium,208,3,0,85
+303,341,215,165,3,Shere Bangla National Stadium,214,7,0,85
+304,342,215,172,2,Pallekele International Cricket Stadium,250,8,0,85
+305,343,215,154,2,Rangiri Dambulla International Stadium,201,8,0,85
+306,344,215,118,7,"Sardar Patel Stadium, Motera",224,3,0,85
+307,345,215,172,6,R Premadasa Stadium,214,4,0,85
+308,346,215,154,7,New Wanderers Stadium,238,3,0,85
+309,347,215,118,10,Shaheed Chandu Stadium,212,0,0,85
+310,348,215,174,3,"Brisbane Cricket Ground, Woolloongabba",218,7,0,85
+311,352,215,105,6,"Sabina Park, Kingston",221,4,0,85
+312,353,215,172,7,Shere Bangla National Stadium,214,3,0,85
+313,354,215,147,6,"Kensington Oval, Bridgetown",187,4,0,85
+314,355,215,210,3,Maharashtra Cricket Association Stadium,250,7,0,85
+315,356,215,148,3,Narayanganj Osmani Stadium,250,7,0,85
+316,357,215,171,2,Zahur Ahmed Chowdhury Stadium,183,8,0,85
+317,359,215,99,8,Clontarf Cricket Club Ground,250,2,0,85
+318,360,215,168,4,Queens Sports Club,220,6,0,85
+319,362,215,139,4,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,6,0,85
+320,363,215,178,5,"Sardar Patel Stadium, Motera",224,5,0,85
+321,364,215,155,4,Trent Bridge,246,6,0,85
+322,365,215,193,3,Shere Bangla National Stadium,214,7,0,85
+323,366,215,176,5,Saxton Oval,250,5,0,85
+324,367,215,189,0,"Sabina Park, Kingston",221,10,0,85
+325,368,215,180,4,Rangiri Dambulla International Stadium,201,6,0,85
+326,369,215,175,3,The Rose Bowl,250,7,0,85
+327,370,215,143,6,Sheikh Zayed Stadium,231,4,0,85
+328,371,215,200,2,"Sir Vivian Richards Stadium, North Sound",225,8,0,85
+329,372,215,95,5,"Beausejour Stadium, Gros Islet",208,5,0,85
+330,373,215,159,5,Iqbal Stadium,197,5,0,85
+331,375,215,147,3,Shere Bangla National Stadium,214,7,0,85
+332,377,215,147,8,Sheikh Abu Naser Stadium,199,2,0,85
+333,380,215,185,5,Shere Bangla National Stadium,214,5,0,85
+334,381,215,117,5,R Premadasa Stadium,214,5,0,85
+335,382,215,144,3,Feroz Shah Kotla,250,7,0,85
+336,384,215,203,3,Old Trafford,206,7,0,85
+337,385,215,187,3,University Oval,250,7,0,85
+338,386,215,148,3,Kingsmead,243,7,0,85
+339,388,215,203,2,"Queen's Park Oval, Port of Spain",199,8,0,85
+340,389,215,134,5,Newlands,243,5,0,85
+341,390,215,194,3,Saxton Oval,250,7,0,85
+342,391,215,192,5,The Rose Bowl,250,5,0,85
+343,392,215,139,3,Harare Sports Club,214,7,0,85
+344,395,215,75,6,University Oval,250,4,0,85
+345,396,215,162,2,Wankhede Stadium,256,8,0,85
+346,397,215,231,4,Shere Bangla National Stadium,214,6,0,85
+347,398,215,173,4,"Queen's Park Oval, Port of Spain",199,6,0,85
+348,399,215,176,4,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,6,0,85
+349,400,215,227,3,"Sabina Park, Kingston",221,7,0,85
+350,401,215,150,3,Riverside Ground,214,7,0,85
+351,401,215,151,3,Riverside Ground,214,7,0,85
+352,402,215,209,3,Eden Park,219,7,0,85
+353,403,215,112,6,"Civil Service Cricket Club, Stormont",177,4,0,85
+354,404,215,166,4,Providence Stadium,211,6,0,85
+355,405,215,165,4,"Brisbane Cricket Ground, Woolloongabba",218,6,0,85
+356,406,215,179,3,Queens Sports Club,220,7,0,85
+357,407,215,222,4,Rangiri Dambulla International Stadium,201,6,0,85
+358,408,215,155,3,Kingsmead,243,7,0,85
+359,410,215,112,7,Harare Sports Club,214,3,0,85
+360,411,215,212,3,Sydney Cricket Ground,220,7,0,85
+361,412,215,109,4,Queenstown Events Centre,120,6,0,85
+362,413,215,226,4,"Vidarbha Cricket Association Stadium, Jamtha",280,6,0,85
+363,414,215,175,3,R Premadasa Stadium,214,7,0,85
+364,415,215,233,3,National Stadium,214,7,0,85
+365,416,215,140,4,"Queen's Park Oval, Port of Spain",199,6,0,85
+366,417,215,201,3,Western Australia Cricket Association Ground,227,7,0,85
+367,418,215,133,6,Westpac Stadium,208,4,0,85
+368,419,215,173,6,"Mission Road Ground, Mong Kok",250,4,0,85
+369,420,215,155,3,Shere Bangla National Stadium,214,7,0,85
+370,421,215,190,3,"MA Chidambaram Stadium, Chepauk",225,7,0,85
+371,422,215,167,4,Saxton Oval,250,6,0,85
+372,423,215,187,4,Nehru Stadium,231,6,0,85
+373,424,215,129,6,Shere Bangla National Stadium,214,4,0,85
+374,425,215,109,7,Eden Park,219,3,0,85
+375,426,215,158,4,Harare Sports Club,214,6,0,85
+376,427,215,186,3,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,7,0,85
+377,429,215,161,3,Gaddafi Stadium,248,7,0,85
+378,430,215,176,6,"Punjab Cricket Association Stadium, Mohali",256,4,0,85
+379,431,215,102,5,R Premadasa Stadium,214,5,0,85
+380,432,215,122,8,"Sabina Park, Kingston",221,2,0,85
+381,433,215,141,5,Senwes Park,246,5,0,85
+382,434,215,203,4,Sawai Mansingh Stadium,235,6,0,85
+383,436,215,161,3,Shere Bangla National Stadium,214,7,0,85
+384,437,215,170,3,R Premadasa Stadium,214,7,0,85
+385,438,215,162,5,Lord's,233,5,0,85
+386,439,215,170,4,Kennington Oval,246,6,0,85
+387,440,215,174,1,Sector 16 Stadium,287,9,0,85
+388,441,215,146,4,Eden Park,219,6,0,85
+389,443,215,177,2,Sheikh Zayed Stadium,231,8,0,85
+390,444,215,147,6,Brabourne Stadium,150,4,0,85
+391,445,215,97,7,"Arnos Vale Ground, Kingstown",180,3,0,85
+392,446,215,261,3,Gaddafi Stadium,248,7,0,85
+393,447,215,117,3,"Beausejour Stadium, Gros Islet",208,7,0,85
+394,448,215,206,2,Queens Sports Club,220,8,0,85
+395,448,215,207,2,Queens Sports Club,220,8,0,85
+396,450,215,164,5,SuperSport Park,231,5,0,85
+397,451,215,150,6,Iqbal Stadium,197,4,0,85
+398,451,215,155,6,Iqbal Stadium,197,4,0,85
+399,452,215,125,4,"Civil Service Cricket Club, Stormont",177,6,0,85
+400,453,215,121,3,"National Cricket Stadium, St George's",216,7,0,85
+401,454,215,200,2,Indian Petrochemicals Corporation Limited Sports Complex Ground,250,8,0,85
+402,455,215,190,5,Eden Park,219,5,0,85
+403,456,215,197,3,"Warner Park, Basseterre",247,7,0,85
+404,458,215,113,6,"Civil Service Cricket Club, Stormont",177,4,0,85
+405,459,215,167,3,Queens Sports Club,220,7,0,85
+406,460,215,191,2,Rangiri Dambulla International Stadium,201,8,0,85
+407,461,215,147,4,Newlands,243,6,0,85
+408,463,215,166,4,Sydney Cricket Ground,220,6,0,85
+409,464,215,171,6,"MA Chidambaram Stadium, Chepauk",225,4,0,85
+410,465,215,129,4,Harare Sports Club,214,6,0,85
+411,466,215,149,6,R Premadasa Stadium,214,4,0,85
+412,467,215,180,2,Trent Bridge,246,8,0,85
+413,468,215,152,4,Providence Stadium,211,6,0,85
+414,469,215,167,2,Harare Sports Club,214,8,0,85
+415,470,215,153,5,Clontarf Cricket Club Ground,250,5,0,85
+416,471,215,140,4,Goodyear Park,250,6,0,85
+417,472,215,161,3,Sheikh Zayed Stadium,231,7,0,85
+418,473,215,183,3,Pallekele International Cricket Stadium,250,7,0,85
+419,474,215,189,6,Docklands Stadium,250,4,0,85
+420,476,215,99,6,County Ground,204,4,0,85
+421,477,215,171,6,Kennington Oval,246,4,0,85
+422,479,215,163,6,Westpac Stadium,208,4,0,85
+423,480,215,206,2,McLean Park,259,8,0,85
+424,481,215,171,5,Nehru Stadium,231,5,0,85
+425,482,215,143,3,Nehru Stadium,231,7,0,85
+426,484,215,140,2,Harare Sports Club,214,8,0,85
+427,485,215,129,6,Pallekele International Cricket Stadium,250,4,0,85
+428,486,215,141,5,Sinhalese Sports Club Ground,167,5,0,85
+429,487,215,191,1,Shere Bangla National Stadium,214,9,0,85
+430,488,215,127,6,"Brisbane Cricket Ground, Woolloongabba",218,4,0,85
+431,489,215,164,4,Queens Sports Club,220,6,0,85
+432,490,215,211,2,R Premadasa Stadium,214,8,0,85
+433,491,215,175,10,SuperSport Park,231,0,0,85
+434,493,215,239,2,Newlands,243,8,0,85
+435,494,215,158,0,Queens Sports Club,220,10,0,85
+436,495,215,129,5,Shere Bangla National Stadium,214,5,0,85
+437,496,215,160,3,Adelaide Oval,230,7,0,85
+438,497,215,163,4,Docklands Stadium,250,6,0,85
+439,498,215,179,2,Westpac Stadium,208,8,0,85
+440,499,215,168,4,"Arnos Vale Ground, Kingstown",180,6,0,85
+441,500,215,196,3,Rangiri Dambulla International Stadium,201,7,0,85
+442,503,215,143,5,"Grange Cricket Club Ground, Raeburn Place",250,5,0,85
+443,504,215,130,8,Sharjah Cricket Stadium,250,2,0,85
+444,505,215,213,1,Manuka Oval,285,9,0,85
+445,506,215,237,5,Eden Park,219,5,0,85
+446,507,215,133,4,Clontarf Cricket Club Ground,250,6,0,85
+447,508,215,148,3,Adelaide Oval,230,7,0,85
+448,509,215,192,2,Eden Gardens,242,8,0,85
+449,510,215,168,3,Eden Park,219,7,0,85
+450,511,215,182,5,Rawalpindi Cricket Stadium,250,5,0,85
+451,512,215,142,5,Queens Sports Club,220,5,0,85
+452,513,215,137,2,"Civil Service Cricket Club, Stormont",177,8,0,85
+453,514,215,187,2,Saurashtra Cricket Association Stadium,250,8,0,85
+454,515,215,141,5,Bellerive Oval,245,5,0,85
+455,516,215,193,1,Western Australia Cricket Association Ground,227,9,0,85
+456,517,215,162,5,"Warner Park, Basseterre",247,5,0,85
+457,518,215,111,7,Dubai International Cricket Stadium,221,3,0,85
+458,519,215,179,5,Western Australia Cricket Association Ground,227,5,0,85
+459,520,215,159,8,Queens Sports Club,220,2,0,85
+460,521,215,248,2,SuperSport Park,231,8,0,85
+461,522,215,198,3,Seddon Park,235,7,0,85
+462,523,215,242,0,Adelaide Oval,230,10,0,85
+463,525,215,157,5,Sheikh Zayed Stadium,231,5,0,85
+464,526,215,251,2,Wankhede Stadium,256,8,0,85
+465,527,215,156,5,Melbourne Cricket Ground,240,5,0,85
+466,528,215,216,1,Sheikh Zayed Stadium,231,9,0,85
+467,530,215,213,5,"Vidarbha Cricket Association Stadium, Jamtha",280,5,0,85
+468,531,215,165,4,County Ground,204,6,0,85
+469,532,215,209,2,Rangiri Dambulla International Stadium,201,8,0,85
+470,533,215,127,5,"Sir Vivian Richards Stadium, North Sound",225,5,0,85
+471,534,215,168,6,Westpac Stadium,208,4,0,85
+472,535,215,110,9,Shere Bangla National Stadium,214,1,0,85
+473,536,215,182,4,Sydney Cricket Ground,220,6,0,85
+474,537,215,136,3,Harare Sports Club,214,7,0,85
+475,539,215,131,3,R Premadasa Stadium,214,7,0,85
+476,540,215,125,5,Shere Bangla National Stadium,214,5,0,85
+477,541,215,182,3,Reliance Stadium,231,7,0,85
+478,542,215,128,4,"Sardar Patel Stadium, Motera",224,6,0,85
+479,542,215,129,4,"Sardar Patel Stadium, Motera",224,6,0,85
+480,543,215,154,4,Sheikh Zayed Stadium,231,6,0,85
+481,544,215,125,5,Khan Shaheb Osman Ali Stadium,250,5,0,85
+482,545,215,171,4,"Vidarbha Cricket Association Stadium, Jamtha",280,6,0,85
+483,546,215,189,2,Saurashtra Cricket Association Stadium,250,8,0,85
+484,547,215,179,4,"Civil Service Cricket Club, Stormont",177,6,0,85
+485,548,215,171,4,Sharjah Cricket Stadium,250,6,0,85
+486,550,215,172,3,Pallekele International Cricket Stadium,250,7,0,85
+487,551,215,168,3,Shere Bangla National Stadium,214,7,0,85
+488,552,215,170,3,Gaddafi Stadium,248,7,0,85
+489,553,215,136,4,Sophia Gardens,192,6,0,85
+490,555,215,151,4,Pallekele International Cricket Stadium,250,6,0,85
+491,557,215,111,7,Cambusdoon New Ground,163,3,0,85
+492,558,215,122,5,Queens Sports Club,220,5,0,85
+493,559,215,133,7,Eden Park,219,3,0,85
+494,560,215,177,3,Providence Stadium,211,7,0,85
+495,561,215,115,7,Sharjah Cricket Stadium,250,3,0,85
+496,562,215,121,8,Sawai Mansingh Stadium,235,2,0,85
+497,562,215,124,8,Sawai Mansingh Stadium,235,2,0,85
+498,563,215,129,5,Shere Bangla National Stadium,214,5,0,85
+499,564,215,153,2,Kingsmead,243,8,0,85
+500,567,215,224,3,"Vidarbha Cricket Association Stadium, Jamtha",280,7,0,85
+501,568,215,171,3,"Kensington Oval, Bridgetown",187,7,0,85
+502,569,215,135,6,Shere Bangla National Stadium,214,4,0,85
+503,570,215,236,1,"Vidarbha Cricket Association Stadium, Jamtha",280,9,0,85
+504,571,215,214,4,"MA Chidambaram Stadium, Chepauk",225,6,0,85
+505,572,215,121,9,New Wanderers Stadium,238,1,0,85
+506,573,215,200,3,"Brisbane Cricket Ground, Woolloongabba",218,7,0,85
+507,574,215,167,4,Feroz Shah Kotla,250,6,0,85
+508,577,215,209,2,Rangiri Dambulla International Stadium,201,8,0,85
+509,578,215,196,5,Eden Park,219,5,0,85
+510,579,215,214,2,SuperSport Park,231,8,0,85
+511,580,215,158,6,Gymkhana Club Ground,193,4,0,85
+512,582,215,153,5,"Sabina Park, Kingston",221,5,0,85
+513,583,215,189,2,Bay Oval,250,8,0,85
+514,584,215,150,6,Trent Bridge,246,4,0,85
+515,585,215,162,3,Edgbaston,203,7,0,85
+516,586,215,167,3,Dubai International Cricket Stadium,221,7,0,85
+517,588,215,216,7,Gaddafi Stadium,248,3,0,85
+518,589,215,151,5,Harare Sports Club,214,5,0,85
+519,590,215,153,3,Sawai Mansingh Stadium,235,7,0,85
+520,591,215,185,2,Shere Bangla National Stadium,214,8,0,85
+521,592,215,158,4,"Beausejour Stadium, Gros Islet",208,6,0,85
+522,594,215,131,4,Harare Sports Club,214,6,0,85
+523,595,215,196,3,Seddon Park,235,7,0,85
+524,596,215,171,5,Western Australia Cricket Association Ground,227,5,0,85
+525,596,215,172,5,Western Australia Cricket Association Ground,227,5,0,85
+526,598,215,161,3,"Punjab Cricket Association Stadium, Mohali",256,7,0,85
+527,599,215,215,0,New Wanderers Stadium,238,10,0,85
+528,600,215,141,3,St George's Park,215,7,0,85
+529,600,215,142,3,St George's Park,215,7,0,85
+530,601,215,203,2,Pallekele International Cricket Stadium,250,8,0,85
+531,602,215,99,5,Westpac Stadium,208,5,0,85
+532,603,215,169,1,Manuka Oval,285,9,0,85
+533,604,215,166,3,Chittagong Divisional Stadium,250,7,0,85
+534,606,215,136,3,"Kensington Oval, Bridgetown",187,7,0,85
+535,607,215,143,4,"Queen's Park Oval, Port of Spain",199,6,0,85
+536,608,215,191,2,The Rose Bowl,250,8,0,85
+537,609,215,171,2,Saxton Oval,250,8,0,85
+538,610,215,168,5,Eden Gardens,242,5,0,85
+539,611,215,223,2,Willowmoore Park,219,8,0,85
+540,612,215,189,2,New Wanderers Stadium,238,8,0,85
+541,613,215,263,4,Mangaung Oval,262,6,0,85
+542,614,215,150,5,R Premadasa Stadium,214,5,0,85
+543,615,215,202,3,Shere Bangla National Stadium,214,7,0,85
+544,616,215,179,7,National Stadium,214,3,0,85
+545,617,215,142,4,St George's Park,215,6,0,85
+546,618,215,125,8,Shere Bangla National Stadium,214,2,0,85
+547,618,215,126,8,Shere Bangla National Stadium,214,2,0,85
+548,619,215,136,3,Shaheed Chandu Stadium,212,7,0,85
+549,619,215,137,3,Shaheed Chandu Stadium,212,7,0,85
+550,620,215,105,7,Queens Sports Club,220,3,0,85
+551,621,215,234,1,Barabati Stadium,259,9,0,85
+552,622,215,199,2,Westpac Stadium,208,8,0,85
+553,623,215,233,4,M Chinnaswamy Stadium,268,6,0,85
+554,624,215,151,4,Queens Sports Club,220,6,0,85
+555,626,215,161,2,Bert Sutcliffe Oval,250,8,0,85
+556,627,215,136,6,Melbourne Cricket Ground,240,4,0,85
+557,628,215,262,3,"Kensington Oval, Bridgetown",187,7,0,85
+558,629,215,190,4,M Chinnaswamy Stadium,268,6,0,85
+559,630,215,108,6,Shere Bangla National Stadium,214,4,0,85
+560,631,215,164,5,Kennington Oval,246,5,0,85
+561,632,215,102,3,Zahur Ahmed Chowdhury Stadium,183,7,0,85
+562,633,215,126,3,Kinrara Academy Oval,204,7,0,85
+563,634,215,178,4,The Rose Bowl,250,6,0,85
+564,636,215,166,3,"Niaz Stadium, Hyderabad",238,7,0,85
+565,637,215,155,3,Shere Bangla National Stadium,214,7,0,85
+566,638,215,204,3,Khan Shaheb Osman Ali Stadium,250,7,0,85
+567,639,215,133,2,Harare Sports Club,214,8,0,85
+568,640,215,130,3,ICC Global Cricket Academy,250,7,0,85
+569,641,215,152,8,County Ground,204,2,0,85
+570,642,215,171,2,Harare Sports Club,214,8,0,85
+571,643,215,256,2,New Wanderers Stadium,238,8,0,85
+572,644,215,199,2,Lord's,233,8,0,85
+573,646,215,163,2,"Queen's Park Oval, Port of Spain",199,8,0,85
+574,648,215,183,3,Greater Noida Sports Complex Ground,250,7,0,85
+575,650,215,166,4,Shere Bangla National Stadium,214,6,0,85
+576,651,215,173,4,Greater Noida Sports Complex Ground,250,6,0,85
+577,652,215,155,3,Harare Sports Club,214,7,0,85
+578,654,215,151,5,M Chinnaswamy Stadium,268,5,0,85
+579,656,215,158,4,Old Trafford,206,6,0,85
+580,657,215,169,4,Harare Sports Club,214,6,0,85
+581,658,215,171,1,Queens Sports Club,220,9,0,85
+582,659,215,136,6,Harare Sports Club,214,4,0,85
+583,660,215,128,5,Maple Leaf North-West Ground,165,5,0,85
+584,661,215,176,2,Harare Sports Club,214,8,0,85
+585,662,215,157,4,"Sir Vivian Richards Stadium, North Sound",225,6,0,85
+586,664,215,104,6,"Arnos Vale Ground, Kingstown",180,4,0,85
+587,666,215,152,5,ICC Global Cricket Academy,250,5,0,85
+588,667,215,182,1,National Stadium,214,9,0,85
+589,668,215,190,2,Gaddafi Stadium,248,8,0,85
+590,669,215,137,3,Adelaide Oval,230,7,0,85
+591,671,215,145,4,Nahar Singh Stadium,250,6,0,85
+592,673,215,183,4,Chevrolet Park,250,6,0,85
+593,674,215,248,2,Willowmoore Park,219,8,0,85
+594,675,215,169,4,Harare Sports Club,214,6,0,85
+595,676,215,167,6,Adelaide Oval,230,4,0,85
+596,677,215,160,2,Sinhalese Sports Club Ground,167,8,0,85
+597,678,215,197,6,Kennington Oval,246,4,0,85
+598,680,215,185,5,Rangiri Dambulla International Stadium,201,5,0,85
+599,681,215,178,4,Rangiri Dambulla International Stadium,201,6,0,85
+600,683,215,197,1,Sheikh Zayed Stadium,231,9,0,85
+601,684,215,143,3,Western Australia Cricket Association Ground,227,7,0,85
+602,685,215,150,3,Sharjah Cricket Stadium,250,7,0,85
+603,686,215,215,4,Shere Bangla National Stadium,214,6,0,85
+604,687,215,153,6,Western Australia Cricket Association Ground,227,4,0,85
+605,688,215,153,2,"Civil Service Cricket Club, Stormont",177,8,0,85
+606,689,215,158,3,Trent Bridge,246,7,0,85
+607,690,215,200,2,Harare Sports Club,214,8,0,85
+608,691,215,197,2,"Brisbane Cricket Ground, Woolloongabba",218,8,0,85
+609,692,215,215,2,Sydney Cricket Ground,220,8,0,85
+610,694,215,171,7,"Mission Road Ground, Mong Kok",250,3,0,85
+611,695,215,138,6,Rangiri Dambulla International Stadium,201,4,0,85
+612,696,215,181,5,St George's Park,215,5,0,85
+613,697,215,177,4,Newlands,243,6,0,85
+614,698,215,133,7,Feroz Shah Kotla,250,3,0,85
+615,701,215,147,6,Sharjah Cricket Stadium,250,4,0,85
+616,702,215,141,4,Queens Sports Club,220,6,0,85
+617,703,215,172,3,"Brisbane Cricket Ground, Woolloongabba",218,7,0,85
+618,705,215,139,4,Shere Bangla National Stadium,214,6,0,85
+619,707,215,123,5,Zahur Ahmed Chowdhury Stadium,183,5,0,85
+620,708,215,212,1,Manuka Oval,285,9,0,85
+621,709,215,169,4,Queens Sports Club,220,6,0,85
+622,710,215,154,4,Willowmoore Park,219,6,0,85
+623,711,215,133,9,Eden Park,219,1,0,85
+624,712,215,203,3,New Wanderers Stadium,238,7,0,85
+625,714,215,205,3,"Warner Park, Basseterre",247,7,0,85
+626,715,215,275,1,Holkar Cricket Stadium,280,9,0,85
+627,716,215,173,5,The Rose Bowl,250,5,0,85
+628,717,215,188,2,Shere Bangla National Stadium,214,8,0,85
+629,719,215,171,5,University Oval,250,5,0,85
+630,719,215,172,5,University Oval,250,5,0,85
+631,720,215,136,9,Reliance Stadium,231,1,0,85
+632,721,215,161,3,Jade Stadium,250,7,0,85
+633,722,215,167,4,Westpac Stadium,208,6,0,85
+634,723,215,310,2,Madhavrao Scindia Cricket Ground,325,8,0,85
+635,726,215,203,3,National Stadium,214,7,0,85
+636,727,215,244,1,"The Village, Malahide",250,9,0,85
+637,728,215,183,7,National Stadium,214,3,0,85
+638,729,215,216,2,Dubai International Cricket Stadium,221,8,0,85
+639,729,215,217,2,Dubai International Cricket Stadium,221,8,0,85
+640,730,215,201,1,R Premadasa Stadium,214,9,0,85
+641,731,215,121,6,"Kensington Oval, Bridgetown",187,4,0,85
+642,732,215,172,3,Shere Bangla National Stadium,214,7,0,85
+643,733,215,244,3,National Stadium,214,7,0,85
+644,734,215,133,7,Sophia Gardens,192,3,0,85
+645,735,215,172,5,Keenan Stadium,250,5,0,85
+646,736,215,191,3,"MA Chidambaram Stadium, Chepauk",225,7,0,85
+647,737,215,158,7,Dubai International Cricket Stadium,221,3,0,85
+648,738,215,154,3,Sawai Mansingh Stadium,235,7,0,85
+649,738,215,155,3,Sawai Mansingh Stadium,235,7,0,85
+650,739,215,143,7,University Oval,250,3,0,85
+651,740,215,211,3,Seddon Park,235,7,0,85
+652,742,215,247,3,"Queen's Park Oval, Port of Spain",199,7,0,85
+653,743,215,151,4,Queens Sports Club,220,6,0,85
+654,744,215,143,5,Providence Stadium,211,5,0,85
+655,745,215,161,4,Adelaide Oval,230,6,0,85
+656,745,215,162,4,Adelaide Oval,230,6,0,85
+657,746,215,162,2,"Queen's Park Oval, Port of Spain",199,8,0,85
+658,747,215,144,4,Dubai International Cricket Stadium,221,6,0,85
+659,752,215,175,5,Rangiri Dambulla International Stadium,201,5,0,85
+660,753,215,167,3,Sharjah Cricket Stadium,250,7,0,85
+661,754,215,191,4,R Premadasa Stadium,214,6,0,85
+662,755,215,115,6,Feroz Shah Kotla,250,4,0,85
+663,756,215,204,3,Melbourne Cricket Ground,240,7,0,85
+664,757,215,160,3,Rangiri Dambulla International Stadium,201,7,0,85
+665,758,215,146,4,Sheikh Zayed Stadium,231,6,0,85
+666,759,215,180,4,Barabati Stadium,259,6,0,85
+667,760,215,146,4,Kennington Oval,246,6,0,85
+668,761,215,153,4,"Queen's Park Oval, Port of Spain",199,6,0,85
+669,762,215,183,3,"Brisbane Cricket Ground, Woolloongabba",218,7,0,85
+670,763,215,162,7,Sheikh Zayed Stadium,231,3,0,85
+671,764,215,144,9,Harare Sports Club,214,1,0,85
+672,765,215,124,7,Bellerive Oval,245,3,0,85
+673,766,215,175,5,R Premadasa Stadium,214,5,0,85
+674,767,215,147,5,Shaheed Chandu Stadium,212,5,0,85
+675,768,215,139,8,Sawai Mansingh Stadium,235,2,0,85
+676,769,215,193,4,St George's Park,215,6,0,85
+677,770,215,173,4,Eden Park,219,6,0,85
+678,771,215,137,3,Sawai Mansingh Stadium,235,7,0,85
+679,772,215,199,1,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,9,0,85
+680,773,215,160,4,Gaddafi Stadium,248,6,0,85
+681,774,215,144,5,R Premadasa Stadium,214,5,0,85
+682,775,215,186,4,Maharani Usharaje Trust Cricket Ground,250,6,0,85
+683,776,215,96,7,Nehru Stadium,231,3,0,85
+684,777,215,126,6,R Premadasa Stadium,214,4,0,85
+685,778,215,177,5,Senwes Park,246,5,0,85
+686,779,215,90,4,Harare Sports Club,214,6,0,85
+687,780,215,147,5,"Warner Park, Basseterre",247,5,0,85
+688,781,215,187,2,"Warner Park, Basseterre",247,8,0,85
+689,784,215,139,5,"Warner Park, Basseterre",247,5,0,85
+690,786,215,168,2,Harare Sports Club,214,8,0,85
+691,786,215,169,2,Harare Sports Club,214,8,0,85
+692,787,215,173,4,Eden Park,219,6,0,85
+693,788,215,200,2,Kinrara Academy Oval,204,8,0,85
+694,789,215,117,8,Shere Bangla National Stadium,214,2,0,85
+695,790,215,127,5,Willowmoore Park,219,5,0,85
+696,790,215,128,5,Willowmoore Park,219,5,0,85
+697,791,215,145,4,"Brisbane Cricket Ground, Woolloongabba",218,6,0,85
+698,792,215,203,4,M Chinnaswamy Stadium,268,6,0,85
+699,793,215,111,6,Gymkhana Club Ground,193,4,0,85
+700,794,215,186,2,Sharjah Cricket Stadium,250,8,0,85
+701,795,215,159,6,Sydney Cricket Ground,220,4,0,85
+702,796,215,165,4,St George's Park,215,6,0,85
+703,797,215,176,4,"Sir Vivian Richards Stadium, North Sound",225,6,0,85
+704,798,215,150,3,Headingley,283,7,0,85
+705,799,215,152,7,"The Village, Malahide",250,3,0,85
+706,800,215,133,2,"Arnos Vale Ground, Kingstown",180,8,0,85
+707,801,215,198,1,Westpac Stadium,208,9,0,85
+708,802,215,165,2,Shere Bangla National Stadium,214,8,0,85
+709,803,215,149,9,Shere Bangla National Stadium,214,1,0,85
+710,804,215,158,4,"Windsor Park, Roseau",247,6,0,85
+711,805,215,197,3,National Stadium,214,7,0,85
+712,806,215,143,3,Bellerive Oval,245,7,0,85
+713,807,215,129,4,Western Australia Cricket Association Ground,227,6,0,85
+714,808,215,203,3,Hagley Oval,250,7,0,85
+715,809,215,194,2,Headingley,283,8,0,85
+716,810,215,227,3,Shere Bangla National Stadium,214,7,0,85
+717,812,215,132,6,Trent Bridge,246,4,0,85
+718,814,215,149,5,"Windsor Park, Roseau",247,5,0,85
+719,815,215,137,5,"Brisbane Cricket Ground, Woolloongabba",218,5,0,85
+720,816,215,126,7,Harare Sports Club,214,3,0,85
+721,817,215,103,2,"Antigua Recreation Ground, St John's",227,8,0,85
+722,819,215,169,8,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,256,2,0,85
+723,820,215,196,1,Kingsmead,243,9,0,85
+724,822,215,194,4,Kingsmead,243,6,0,85
+725,823,215,124,5,Multan Cricket Stadium,226,5,0,85
+726,824,215,146,4,Providence Stadium,211,6,0,85
+727,827,215,148,5,Kennington Oval,246,5,0,85
+728,829,215,168,2,Queens Sports Club,220,8,0,85
+729,830,215,165,2,Sheikh Zayed Stadium,231,8,0,85
+730,831,215,148,4,Kennington Oval,246,6,0,85
+731,831,215,150,4,Kennington Oval,246,6,0,85
+732,832,215,158,3,Adelaide Oval,230,7,0,85
+733,833,215,214,2,"Queen's Park Oval, Port of Spain",199,8,0,85
+734,835,215,142,7,Bellerive Oval,245,3,0,85
+735,836,215,180,2,Edgbaston,203,8,0,85
+736,839,215,194,2,Westpac Stadium,208,8,0,85
+737,841,215,171,5,"Kensington Oval, Bridgetown",187,5,0,85
+738,842,215,177,2,Kennington Oval,246,8,0,85
+739,844,215,179,3,Rangiri Dambulla International Stadium,201,7,0,85
+740,844,215,180,3,Rangiri Dambulla International Stadium,201,7,0,85
+741,845,215,242,1,SuperSport Park,231,9,0,85
+742,846,215,158,4,Harare Sports Club,214,6,0,85
+743,847,215,150,3,AMI Stadium,228,7,0,85
+744,849,215,127,5,R Premadasa Stadium,214,5,0,85
+745,850,215,204,4,Sheikh Zayed Stadium,231,6,0,85
+746,851,215,156,4,Manuka Oval,285,6,0,85
+747,852,215,182,2,Sheikh Zayed Stadium,231,8,0,85
+748,853,215,161,2,Zohur Ahmed Chowdhury Stadium,250,8,0,85
+749,854,215,193,2,Edgbaston,203,8,0,85
+750,857,215,126,3,"Queen's Park Oval, Port of Spain",199,7,0,85
+751,858,215,170,2,Kennington Oval,246,8,0,85
+752,859,215,187,2,"Sardar Patel Stadium, Motera",224,8,0,85
+753,860,215,239,3,Kennington Oval,246,7,0,85
+754,860,215,240,3,Kennington Oval,246,7,0,85
+755,861,215,236,2,Madhavrao Scindia Cricket Ground,325,8,0,85
+756,862,215,129,4,Lord's,233,6,0,85
+757,863,215,152,5,Kinrara Academy Oval,204,5,0,85
+758,864,215,146,5,"Beausejour Stadium, Gros Islet",208,5,0,85
+759,866,215,162,4,Clontarf Cricket Club Ground,250,6,0,85
+760,869,215,123,7,Queens Sports Club,220,3,0,85
+761,870,215,154,5,Saxton Oval,250,5,0,85
+762,871,215,146,4,Brabourne Stadium,150,6,0,85
+763,873,215,192,7,"Punjab Cricket Association Stadium, Mohali",256,3,0,85
+764,874,215,139,3,Pallekele International Cricket Stadium,250,7,0,85
+765,875,215,131,4,"National Cricket Stadium, St George's",216,6,0,85
+766,876,215,162,6,Rangiri Dambulla International Stadium,201,4,0,85
+767,877,215,188,4,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,6,0,85
+768,878,215,195,4,Vidarbha Cricket Association Ground,250,6,0,85
+769,879,215,206,3,Western Australia Cricket Association Ground,227,7,0,85
+770,880,215,158,6,R Premadasa Stadium,214,4,0,85
+771,881,215,152,4,Western Australia Cricket Association Ground,227,6,0,85
+772,883,215,172,4,The Rose Bowl,250,6,0,85
+773,884,215,147,6,The Rose Bowl,250,4,0,85
+774,889,215,181,4,Adelaide Oval,230,6,0,85
+775,890,215,169,5,Queens Sports Club,220,5,0,85
+776,891,215,164,3,"Sir Vivian Richards Stadium, North Sound",225,7,0,85
+777,892,215,142,6,Sydney Cricket Ground,220,4,0,85
+778,893,215,136,7,Newlands,243,3,0,85
+779,894,215,136,5,"Brisbane Cricket Ground, Woolloongabba",218,5,0,85
+780,895,215,118,6,Sheikh Zayed Stadium,231,4,0,85
+781,896,215,175,3,Harare Sports Club,214,7,0,85
+782,896,215,176,3,Harare Sports Club,214,7,0,85
+783,897,215,185,4,National Stadium,214,6,0,85
+784,899,215,142,5,Adelaide Oval,230,5,0,85
+785,900,215,169,6,Shere Bangla National Stadium,214,4,0,85
+786,901,215,196,2,"Brisbane Cricket Ground, Woolloongabba",218,8,0,85
+787,902,215,117,6,Dubai International Cricket Stadium,221,4,0,85
+788,903,215,158,4,Shere Bangla National Stadium,214,6,0,85
+789,904,215,158,4,Sedgars Park,250,6,0,85
+790,905,215,221,3,Sharjah Cricket Stadium,250,7,0,85
+791,906,215,174,2,Sheikh Zayed Stadium,231,8,0,85
+792,907,215,112,8,National Stadium,214,2,0,85
+793,908,215,184,5,Kinrara Academy Oval,204,5,0,85
+794,910,215,156,4,"Rajiv Gandhi International Stadium, Uppal",273,6,0,85
+795,911,215,177,6,Harare Sports Club,214,4,0,85
+796,912,215,173,3,De Beers Diamond Oval,250,7,0,85
+797,913,215,168,5,Edgbaston,203,5,0,85
+798,914,215,155,4,Seddon Park,235,6,0,85
+799,915,215,168,3,Sharjah Cricket Stadium,250,7,0,85
+800,916,215,106,5,Buffalo Park,171,5,0,85
+801,917,215,142,4,Sheikh Zayed Stadium,231,6,0,85
+802,918,215,123,5,R Premadasa Stadium,214,5,0,85
+803,919,215,131,5,Willowmoore Park,219,5,0,85
+804,920,215,186,3,Nehru Stadium,231,7,0,85
+805,921,215,175,4,Eden Gardens,242,6,0,85
+806,922,215,187,2,Sharjah Cricket Stadium,250,8,0,85
+807,923,215,143,2,St George's Park,215,8,0,85
+808,924,215,136,5,Shere Bangla National Stadium,214,5,0,85
+809,925,215,129,5,Gymkhana Club Ground,193,5,0,85
+810,926,215,139,4,Shere Bangla National Stadium,214,6,0,85
+811,927,215,165,5,Sheikh Zayed Stadium,231,5,0,85
+812,929,215,157,4,Shere Bangla National Stadium,214,6,0,85
+813,931,215,175,3,Dubai International Cricket Stadium,221,7,0,85
+814,932,215,176,4,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,6,0,85
+815,933,215,180,5,McLean Park,259,5,0,85
+816,934,215,186,4,Rangiri Dambulla International Stadium,201,6,0,85
+817,935,215,213,3,Barabati Stadium,259,7,0,85
+818,936,215,164,4,Headingley,283,6,0,85
+819,937,215,207,2,"Brisbane Cricket Ground, Woolloongabba",218,8,0,85
+820,939,215,193,6,"Grange Cricket Club Ground, Raeburn Place",250,4,0,85
+821,940,215,182,5,Seddon Park,235,5,0,85
+822,942,215,208,2,McLean Park,259,8,0,85
+823,943,215,219,2,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,8,0,85
+824,944,215,167,2,Gymkhana Club Ground,193,8,0,85
+825,945,215,206,3,SuperSport Park,231,7,0,85
+826,946,215,210,2,Sydney Cricket Ground,220,8,0,85
+827,947,215,148,4,"Kensington Oval, Bridgetown",187,6,0,85
+828,948,215,162,5,Sophia Gardens,192,5,0,85
+829,949,215,146,4,"Beausejour Stadium, Gros Islet",208,6,0,85
+830,950,215,181,2,Shere Bangla National Stadium,214,8,0,85
+831,951,215,90,8,Queenstown Events Centre,120,2,0,85
+832,952,215,161,5,Dubai International Cricket Stadium,221,5,0,85
+833,953,215,174,1,"Sardar Patel Stadium, Motera",224,9,0,85
+834,953,215,175,1,"Sardar Patel Stadium, Motera",224,9,0,85
+835,954,215,161,4,Sophia Gardens,192,6,0,85
+836,957,215,171,5,Multan Cricket Stadium,226,5,0,85
+837,958,215,142,3,Clontarf Cricket Club Ground,250,7,0,85
+838,959,215,182,4,Lord's,233,6,0,85
+839,961,215,165,4,Harare Sports Club,214,6,0,85
+840,962,215,157,3,National Stadium,214,7,0,85
+841,964,215,175,1,Bellerive Oval,245,9,0,85
+842,965,215,200,4,Adelaide Oval,230,6,0,85
+843,966,215,219,4,OUTsurance Oval,250,6,0,85
+844,968,215,190,2,"Beausejour Stadium, Gros Islet",208,8,0,85
+845,969,215,172,3,R Premadasa Stadium,214,7,0,85
+846,970,215,136,5,"Sir Vivian Richards Stadium, North Sound",225,5,0,85
+847,971,215,166,4,Sydney Cricket Ground,220,6,0,85
+848,972,215,167,2,Sinhalese Sports Club Ground,167,8,0,85
+849,975,215,184,2,Gymkhana Club Ground,193,8,0,85
+850,976,215,173,7,Pallekele International Cricket Stadium,250,3,0,85
+851,977,215,149,7,"Vidarbha Cricket Association Stadium, Jamtha",280,3,0,85
+852,978,215,167,5,Shere Bangla National Stadium,214,5,0,85
+853,979,215,156,6,"Rajiv Gandhi International Stadium, Uppal",273,4,0,85
+854,980,215,137,5,"National Cricket Stadium, St George's",216,5,0,85
+855,981,215,208,3,Old Trafford,206,7,0,85
+856,983,215,211,4,M Chinnaswamy Stadium,268,6,0,85
+857,984,215,179,3,SuperSport Park,231,7,0,85
+858,985,215,164,3,Providence Stadium,211,7,0,85
+859,986,215,118,9,St George's Park,215,1,0,85
+860,987,215,190,1,Shere Bangla National Stadium,214,9,0,85
+861,988,215,211,4,JSCA International Stadium Complex,250,6,0,85
+862,989,215,177,2,Bellerive Oval,245,8,0,85
+863,990,215,130,5,Harare Sports Club,214,5,0,85
+864,991,215,214,1,Manuka Oval,285,9,0,85
+865,992,215,142,6,Lord's,233,4,0,85
+866,993,215,192,4,Lord's,233,6,0,85
+867,994,215,161,2,Sharjah Cricket Stadium,250,8,0,85
+868,995,215,136,5,Kennington Oval,246,5,0,85
+869,996,215,125,8,Western Australia Cricket Association Ground,227,2,0,85
+870,997,215,159,3,Sheikh Zayed Stadium,231,7,0,85
+871,998,215,152,4,Sydney Cricket Ground,220,6,0,85
+872,999,215,154,6,Rangiri Dambulla International Stadium,201,4,0,85
+873,1000,215,157,5,Barabati Stadium,259,5,0,85
+874,1001,215,243,3,AMI Stadium,228,7,0,85
+875,1002,215,135,6,Providence Stadium,211,4,0,85
+876,1003,215,145,8,Greater Noida Sports Complex Ground,250,2,0,85
+877,1004,215,122,4,"Sabina Park, Kingston",221,6,0,85
+878,1005,215,135,8,New Wanderers Stadium,238,2,0,85
+879,1007,215,146,6,Sharjah Cricket Stadium,250,4,0,85
+880,1008,215,121,4,"Queen's Park Oval, Port of Spain",199,6,0,85
+881,1009,215,157,4,"Grange Cricket Club Ground, Raeburn Place",250,6,0,85
+882,1010,215,146,4,Pallekele International Cricket Stadium,250,6,0,85
+883,1011,215,92,6,Mannofield Park,202,4,0,85
+884,1012,215,120,5,Harare Sports Club,214,5,0,85
+885,1014,215,206,5,University Oval,250,5,0,85
+886,1015,215,135,5,"MA Chidambaram Stadium, Chepauk",225,5,0,85
+887,1016,215,153,6,Willowmoore Park,219,4,0,85
+888,1017,215,128,7,Western Australia Cricket Association Ground,227,3,0,85
+889,1018,215,102,7,Rangiri Dambulla International Stadium,201,3,0,85
+890,1019,215,177,4,Dubai International Cricket Stadium,221,6,0,85
+891,1021,215,207,3,"Warner Park, Basseterre",247,7,0,85
+892,1022,215,222,2,"Beausejour Stadium, Gros Islet",208,8,0,85
+893,1023,215,150,5,Eden Park,219,5,0,85
+894,1024,215,157,5,"Grange Cricket Club Ground, Raeburn Place",250,5,0,85
+895,1025,215,145,7,Shere Bangla National Stadium,214,3,0,85
+896,1026,215,145,5,"The Village, Malahide",250,5,0,85
+897,1027,215,145,6,Sydney Cricket Ground,220,4,0,85
+898,1028,215,151,3,Lord's,233,7,0,85
+899,1029,215,181,3,SuperSport Park,231,7,0,85
+900,1030,215,176,3,R Premadasa Stadium,214,7,0,85
+901,1031,215,116,7,Shere Bangla National Stadium,214,3,0,85
+902,1032,215,156,4,Kingsmead,243,6,0,85
+903,1033,215,128,8,Clontarf Cricket Club Ground,250,2,0,85
+904,1034,215,188,4,Sinhalese Sports Club Ground,167,6,0,85
+905,1035,215,136,7,Dubai International Cricket Stadium,221,3,0,85
+906,1037,215,187,4,Western Australia Cricket Association Ground,227,6,0,85
+907,1038,215,137,4,Iqbal Stadium,197,6,0,85
+908,1039,215,132,6,Kinrara Academy Oval,204,4,0,85
+909,1040,215,196,3,Rangiri Dambulla International Stadium,201,7,0,85
+910,1042,215,159,2,Sheikh Zayed Stadium,231,8,0,85
+911,1044,215,152,4,Lord's,233,6,0,85
+912,1046,215,136,7,Reliance Stadium,231,3,0,85
+913,1048,215,229,2,McLean Park,259,8,0,85
+914,1049,215,104,8,"Kensington Oval, Bridgetown",187,2,0,85
+915,1050,215,175,3,Bellerive Oval,245,7,0,85
+916,1052,215,152,3,"National Cricket Stadium, St George's",216,7,0,85
+917,1053,215,192,2,"National Cricket Stadium, St George's",216,8,0,85
+918,1054,215,179,2,Sophia Gardens,192,8,0,85
+919,1057,215,217,1,"Kensington Oval, Bridgetown",187,9,0,85
+920,1058,215,161,4,Seddon Park,235,6,0,85
+921,1058,215,162,4,Seddon Park,235,6,0,85
+922,1059,215,137,7,Harare Sports Club,214,3,0,85
+923,1060,215,196,4,Eden Gardens,242,6,0,85
+924,1061,215,137,4,Harare Sports Club,214,6,0,85
+925,1063,215,127,5,Shere Bangla National Stadium,214,5,0,85
+926,1064,215,164,3,Melbourne Cricket Ground,240,7,0,85
+927,1065,215,169,2,Western Australia Cricket Association Ground,227,8,0,85
+928,1066,215,176,3,Green Park,263,7,0,85
+929,1067,215,128,4,"Sardar Patel Stadium, Motera",224,6,0,85
+930,1069,215,137,4,Sydney Cricket Ground,220,6,0,85
+931,1070,215,185,3,Queens Sports Club,220,7,0,85
+932,1071,215,142,5,Adelaide Oval,230,5,0,85
+933,1072,215,144,3,Providence Stadium,211,7,0,85
+934,1073,215,161,6,Adelaide Oval,230,4,0,85
+935,1075,215,118,6,Western Australia Cricket Association Ground,227,4,0,85
+936,1076,215,196,2,Bay Oval,250,8,0,85
+937,1077,215,179,3,"Punjab Cricket Association Stadium, Mohali",256,7,0,85
+938,1078,215,198,4,Shere Bangla National Stadium,214,6,0,85
+939,1080,215,187,5,Zahur Ahmed Chowdhury Stadium,183,5,0,85
+940,1081,215,232,5,Eden Park,219,5,0,85
+941,1082,215,180,5,"Sir Vivian Richards Stadium, North Sound",225,5,0,85
+942,1083,215,172,5,"MA Chidambaram Stadium, Chepauk",225,5,0,85
+943,1085,215,155,8,Adelaide Oval,230,2,0,85
+944,1086,215,126,7,Sharjah Cricket Stadium,250,3,0,85
+945,1087,215,143,6,Trent Bridge,246,4,0,85
+946,1088,215,117,4,"Sir Vivian Richards Stadium, North Sound",225,6,0,85
+947,1089,215,127,4,"Arnos Vale Ground, Kingstown",180,6,0,85
+948,1090,215,170,3,Pallekele International Cricket Stadium,250,7,0,85
+949,1091,215,155,4,Shere Bangla National Stadium,214,6,0,85
+950,1092,215,184,4,Gaddafi Stadium,248,6,0,85
+951,1093,215,129,5,"Sabina Park, Kingston",221,5,0,85
+952,1094,215,169,2,Western Australia Cricket Association Ground,227,8,0,85
+953,1096,215,123,8,Providence Stadium,211,2,0,85
+954,1097,215,203,2,Chevrolet Park,250,8,0,85
+955,1098,215,181,4,Seddon Park,235,6,0,85
+956,1099,215,269,4,R Premadasa Stadium,214,6,0,85
+957,1100,215,142,5,Sheikh Zayed Stadium,231,5,0,85
+958,1101,215,153,4,Jaffery Sports Club Ground,219,6,0,85
+959,1102,215,176,3,Trent Bridge,246,7,0,85
+960,1103,215,169,6,New Wanderers Stadium,238,4,0,85
+961,1104,215,187,3,Eden Park,219,7,0,85
+962,1105,215,132,4,Old Trafford,206,6,0,85
+963,1106,215,144,5,Saxton Oval,250,5,0,85
+964,1107,215,147,3,Zahur Ahmed Chowdhury Stadium,183,7,0,85
+965,1108,215,199,4,Sophia Gardens,192,6,0,85
+966,1109,215,169,5,Sharjah Cricket Stadium,250,5,0,85
+967,1110,215,161,3,"Beausejour Stadium, Gros Islet",208,7,0,85
+968,1111,215,186,2,Gaddafi Stadium,248,8,0,85
+969,1112,215,211,2,"Warner Park, Basseterre",247,8,0,85
+970,1112,215,212,2,"Warner Park, Basseterre",247,8,0,85
+971,1113,215,165,4,Saxton Oval,250,6,0,85
+972,1114,215,120,8,"Sabina Park, Kingston",221,2,0,85
+973,1115,215,181,3,Sydney Cricket Ground,220,7,0,85
+974,1116,215,164,5,"The Village, Malahide",250,5,0,85
+975,1117,215,178,3,Khan Shaheb Osman Ali Stadium,250,7,0,85
+976,1118,215,146,7,Queens Sports Club,220,3,0,85
+977,1120,215,130,5,"Sabina Park, Kingston",221,5,0,85
+978,1121,215,126,8,Himachal Pradesh Cricket Association Stadium,250,2,0,85
+979,1122,215,169,4,R Premadasa Stadium,214,6,0,85
+980,1123,215,194,4,Hagley Oval,250,6,0,85
+981,1124,215,121,9,Westpac Stadium,208,1,0,85
+982,1124,215,122,9,Westpac Stadium,208,1,0,85
+983,1125,215,186,2,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,256,8,0,85
+984,1127,215,215,5,Old Trafford,206,5,0,85
+985,1128,215,202,3,Westpac Stadium,208,7,0,85
+986,1130,215,169,3,Green Park,263,7,0,85
+987,1131,215,180,3,"Rajiv Gandhi International Stadium, Uppal",273,7,0,85
+988,1132,215,164,5,Shere Bangla National Stadium,214,5,0,85
+989,1133,215,120,3,SuperSport Park,231,7,0,85
+990,1134,215,222,3,McLean Park,259,7,0,85
+991,1135,215,167,3,McLean Park,259,7,0,85
+992,1136,215,168,5,Shere Bangla National Stadium,214,5,0,85
+993,1137,215,187,5,Kennington Oval,246,5,0,85
+994,1138,215,138,7,"Brisbane Cricket Ground, Woolloongabba",218,3,0,85
+995,1139,215,135,4,SuperSport Park,231,6,0,85
+996,1140,215,175,6,Shere Bangla National Stadium,214,4,0,85
+997,1141,215,224,5,The Rose Bowl,250,5,0,85
+998,1142,215,228,2,OUTsurance Oval,250,8,0,85
+999,1143,215,132,6,Eden Park,219,4,0,85
+1000,1144,215,133,5,Chittagong Divisional Stadium,250,5,0,85
+1001,1145,215,163,3,Shere Bangla National Stadium,214,7,0,85
+1002,1146,215,147,5,Dubai International Cricket Stadium,221,5,0,85
+1003,1147,215,152,6,Zahur Ahmed Chowdhury Stadium,183,4,0,85
+1004,1148,215,172,4,"Nehru Stadium, Fatorda",231,6,0,85
+1005,1149,215,182,4,Pallekele International Cricket Stadium,250,6,0,85
+1006,1153,215,152,4,Western Australia Cricket Association Ground,227,6,0,85
+1007,1154,215,250,2,"Warner Park, Basseterre",247,8,0,85
+1008,1157,215,191,4,National Stadium,214,6,0,85
+1009,1158,215,178,6,University Oval,250,4,0,85
+1010,1159,215,133,6,Adelaide Oval,230,4,0,85
+1011,1160,215,144,4,Melbourne Cricket Ground,240,6,0,85
+1012,1161,215,144,5,Himachal Pradesh Cricket Association Stadium,250,5,0,85
+1013,1162,215,132,5,Shaheed Chandu Stadium,212,5,0,85
+1014,1163,215,142,5,Chittagong Divisional Stadium,250,5,0,85
+1015,1164,215,182,5,St George's Park,215,5,0,85
+1016,1165,215,163,5,Western Australia Cricket Association Ground,227,5,0,85
+1017,1166,215,234,4,"National Cricket Stadium, St George's",216,6,0,85
+1018,1168,215,183,5,R Premadasa Stadium,214,5,0,85
+1019,1169,215,240,4,Sydney Cricket Ground,220,6,0,85
+1020,1170,215,194,3,R Premadasa Stadium,214,7,0,85
+1021,1171,215,211,2,Bellerive Oval,245,8,0,85
+1022,1172,215,106,7,Pallekele International Cricket Stadium,250,3,0,85
+1023,1173,215,162,7,Ruaraka Sports Club Ground,244,3,0,85
+1024,1174,215,192,5,Sawai Mansingh Stadium,235,5,0,85
+1025,1175,215,219,4,"Kensington Oval, Bridgetown",187,6,0,85
+1026,1176,215,159,8,Kennington Oval,246,2,0,85
+1027,1177,215,138,5,Boland Park,250,5,0,85
+1028,1178,215,147,5,Dubai International Cricket Stadium,221,5,0,85
+1029,1179,215,214,2,M Chinnaswamy Stadium,268,8,0,85
+1030,1181,215,241,2,Bellerive Oval,245,8,0,85
+1031,1182,215,147,6,Shere Bangla National Stadium,214,4,0,85
+1032,1183,215,149,6,Senwes Park,246,4,0,85
+1033,1184,215,154,4,Harare Sports Club,214,6,0,85
+1034,1185,215,157,4,Rangiri Dambulla International Stadium,201,6,0,85
+1035,1186,215,180,4,Harare Sports Club,214,6,0,85
+1036,1187,215,178,5,Kingsmead,243,5,0,85
+1037,1188,215,209,1,McLean Park,259,9,0,85
+1038,1189,215,171,4,R Premadasa Stadium,214,6,0,85
+1039,1190,215,152,4,Lord's,233,6,0,85
+1040,1191,215,182,4,Harare Sports Club,214,6,0,85
+1041,1192,215,236,3,Arbab Niaz Stadium,250,7,0,85
+1042,1193,215,164,2,Newlands,243,8,0,85
+1043,1194,215,182,1,Western Australia Cricket Association Ground,227,9,0,85
+1044,1195,215,178,1,Shere Bangla National Stadium,214,9,0,85
+1045,1196,215,173,2,Sydney Cricket Ground,220,8,0,85
+1046,1197,215,146,3,SuperSport Park,231,7,0,85
+1047,1198,215,214,2,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,8,0,85
+1048,1201,215,164,1,Providence Stadium,211,9,0,85
+1049,1202,215,192,5,Westpac Stadium,208,5,0,85
+1050,1203,215,141,3,"Punjab Cricket Association Stadium, Mohali",256,7,0,85
+1051,1204,215,163,4,Shere Bangla National Stadium,214,6,0,85
+1052,1205,215,142,2,Harare Sports Club,214,8,0,85
+1053,1206,215,149,4,JSCA International Stadium Complex,250,6,0,85
+1054,1207,215,202,4,Seddon Park,235,6,0,85
+1055,1208,215,140,3,"Sabina Park, Kingston",221,7,0,85
+1056,1209,215,182,2,Headingley,283,8,0,85
+1057,1211,215,153,6,Shere Bangla National Stadium,214,4,0,85
+1058,1212,215,127,6,Kennington Oval,246,4,0,85
+1059,1213,215,138,8,Queens Sports Club,220,2,0,85
+1060,1214,215,104,7,Brabourne Stadium,150,3,0,85
+1061,1215,215,130,7,Multan Cricket Stadium,226,3,0,85
+1062,1216,215,166,4,Providence Stadium,211,6,0,85
+1063,1217,215,199,2,Headingley,283,8,0,85
+1064,1218,215,160,9,Shere Bangla National Stadium,214,1,0,85
+1065,1219,215,203,2,Sawai Mansingh Stadium,235,8,0,85
+1066,1220,215,125,4,Sheikh Zayed Stadium,231,6,0,85
+1067,1221,215,199,2,Boland Park,250,8,0,85
+1068,1222,215,164,3,St George's Park,215,7,0,85
+1069,1224,215,150,4,Kinrara Academy Oval,204,6,0,85
+1070,1225,215,138,5,Providence Stadium,211,5,0,85
+1071,1226,215,140,5,Titwood,203,5,0,85
+1072,1226,215,145,5,Titwood,203,5,0,85
+1073,1227,215,224,1,Shere Bangla National Stadium,214,9,0,85
+1074,1228,215,140,4,Lord's,233,6,0,85
+1075,1229,215,133,4,Shere Bangla National Stadium,214,6,0,85
+1076,1230,215,186,2,Bellerive Oval,245,8,0,85
+1077,1231,215,185,2,Riverside Ground,214,8,0,85
+1078,1232,215,162,3,"Punjab Cricket Association Stadium, Mohali",256,7,0,85
+1079,1233,215,210,3,Sydney Cricket Ground,220,7,0,85
+1080,1234,215,187,5,Willowmoore Park,219,5,0,85
+1081,1235,215,209,3,"Beausejour Stadium, Gros Islet",208,7,0,85
+1082,1236,215,174,2,"Warner Park, Basseterre",247,8,0,85
+1083,1237,215,155,5,Sophia Gardens,192,5,0,85
+1084,1238,215,204,2,County Ground,204,8,0,85
+1085,1240,215,159,5,ICC Academy,250,5,0,85
+1086,1241,215,161,4,Kingsmead,243,6,0,85
+1087,1242,215,184,4,Saxton Oval,250,6,0,85
+1088,1243,215,191,3,Sydney Cricket Ground,220,7,0,85
+1089,1244,215,103,4,Melbourne Cricket Ground,240,6,0,85
+1090,1245,215,89,6,Iqbal Stadium,197,4,0,85
+1091,1246,215,123,3,"Kensington Oval, Bridgetown",187,7,0,85
+1092,1247,215,112,5,Harare Sports Club,214,5,0,85
+1093,1248,215,120,7,Rangiri Dambulla International Stadium,201,3,0,85
+1094,1249,215,170,3,ICC Academy,250,7,0,85
+1095,1250,215,210,3,Kingsmead,243,7,0,85
+1096,1251,215,218,3,Newlands,243,7,0,85
+1097,1252,215,126,5,SuperSport Park,231,5,0,85
+1098,1253,215,165,6,Adelaide Oval,230,4,0,85
+1099,1254,215,166,4,Hagley Oval,250,6,0,85
+1100,1256,215,119,4,Harare Sports Club,214,6,0,85
+1101,1257,215,143,5,Providence Stadium,211,5,0,85
+1102,1258,215,188,4,Maharashtra Cricket Association Stadium,250,6,0,85
+1103,1260,215,147,4,Harare Sports Club,214,6,0,85
+1104,1261,215,171,3,Adelaide Oval,230,7,0,85
+1105,1262,215,201,2,Sheikh Zayed Stadium,231,8,0,85
+1106,1263,215,155,4,Harare Sports Club,214,6,0,85
+1107,1264,215,179,4,Maharani Usharaje Trust Cricket Ground,250,6,0,85
+1108,1264,215,180,4,Maharani Usharaje Trust Cricket Ground,250,6,0,85
+1109,1266,215,193,2,Himachal Pradesh Cricket Association Stadium,250,8,0,85
+1110,1267,215,191,2,Melbourne Cricket Ground,240,8,0,85
+1111,1269,215,110,5,Willowmoore Park,219,5,0,85
+1112,1271,215,174,4,Sheikh Zayed Stadium,231,6,0,85
+1113,1272,215,245,2,Shere Bangla National Stadium,214,8,0,85
+1114,1273,215,234,4,"MA Chidambaram Stadium, Chepauk",225,6,0,85
+1115,1274,215,135,6,Sawai Mansingh Stadium,235,4,0,85
+1116,1275,215,218,2,M Chinnaswamy Stadium,268,8,0,85
+1117,1276,215,240,6,Edgbaston,203,4,0,85
+1118,1278,215,202,2,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,8,0,85
+1119,1279,215,197,5,Sydney Cricket Ground,220,5,0,85
+1120,1281,215,220,3,Hagley Oval,250,7,0,85
+1121,1282,215,279,3,"Warner Park, Basseterre",247,7,0,85
+1122,1284,215,164,4,Jade Stadium,250,6,0,85
+1123,1285,215,139,4,Harare Sports Club,214,6,0,85
+1124,1285,215,140,4,Harare Sports Club,214,6,0,85
+1125,1287,215,118,3,R Premadasa Stadium,214,7,0,85
+1126,1288,215,109,8,R Premadasa Stadium,214,2,0,85
+1127,1289,215,208,4,Gaddafi Stadium,248,6,0,85
+1128,1290,215,151,5,Queens Sports Club,220,5,0,85
+1129,1291,215,157,8,Gymkhana Club Ground,193,2,0,85
+1130,1292,215,189,3,"Civil Service Cricket Club, Stormont",177,7,0,85
+1131,1293,215,166,7,Willowmoore Park,219,3,0,85
+1132,1294,215,203,1,"Rajiv Gandhi International Stadium, Uppal",273,9,0,85
+1133,1295,215,145,5,Mombasa Sports Club Ground,224,5,0,85
+1134,1297,215,144,5,"Sir Vivian Richards Stadium, North Sound",225,5,0,85
+1135,1298,215,168,4,ICC Academy,250,6,0,85
+1136,1299,215,161,5,Shere Bangla National Stadium,214,5,0,85
+1137,1300,215,174,2,Bellerive Oval,245,8,0,85
+1138,1301,215,137,3,Shere Bangla National Stadium,214,7,0,85
+1139,1302,215,211,2,"Warner Park, Basseterre",247,8,0,85
+1140,1303,215,214,4,National Stadium,214,6,0,85
+1141,1304,215,199,6,Trent Bridge,246,4,0,85
+1142,1305,215,192,3,Melbourne Cricket Ground,240,7,0,85
+1143,1306,215,203,2,Clontarf Cricket Club Ground,250,8,0,85
+1144,1308,215,218,2,"Sabina Park, Kingston",221,8,0,85
+1145,1309,215,150,2,"Queen's Park Oval, Port of Spain",199,8,0,85
+1146,1310,215,124,6,"Civil Service Cricket Club, Stormont",177,4,0,85
+1147,1311,215,160,4,R Premadasa Stadium,214,6,0,85
+1148,1312,215,189,2,R Premadasa Stadium,214,8,0,85
+1149,1313,215,126,6,Shere Bangla National Stadium,214,4,0,85
+1150,1314,215,170,7,Pallekele International Cricket Stadium,250,3,0,85
+1151,1315,215,103,8,Gymkhana Club Ground,193,2,0,85
+1152,1316,215,182,1,SuperSport Park,231,9,0,85
+1153,1317,215,132,8,"Kensington Oval, Bridgetown",187,2,0,85
+1154,1318,215,149,3,"Queen's Park Oval, Port of Spain",199,7,0,85
+1155,1319,215,104,7,Shere Bangla National Stadium,214,3,0,85
+1156,1320,215,157,5,Kennington Oval,246,5,0,85
+1157,1321,215,129,8,Shere Bangla National Stadium,214,2,0,85
+1158,1322,215,169,1,Clontarf Cricket Club Ground,250,9,0,85
+1159,1323,215,147,5,"Sardar Patel Stadium, Motera",224,5,0,85
+1160,1324,215,143,6,Khan Shaheb Osman Ali Stadium,250,4,0,85
+1161,1325,215,131,7,Newlands,243,3,0,85
+1162,1326,215,175,2,"Queen's Park Oval, Port of Spain",199,8,0,85
+1163,1327,215,236,2,Captain Roop Singh Stadium,291,8,0,85
+1164,1328,215,239,5,"The Village, Malahide",250,5,0,85
+1165,1330,215,147,4,Shere Bangla National Stadium,214,6,0,85
+1166,1331,215,198,2,Sharjah Cricket Stadium,250,8,0,85
+1167,1332,215,150,5,R Premadasa Stadium,214,5,0,85
+1168,1333,215,157,5,Feroz Shah Kotla,250,5,0,85
+1169,1334,215,183,4,"Sir Vivian Richards Stadium, North Sound",225,6,0,85
+1170,1335,215,160,4,Melbourne Cricket Ground,240,6,0,85
+1171,1336,215,151,5,Shere Bangla National Stadium,214,5,0,85
+1172,1337,215,160,7,Eden Park,219,3,0,85
+1173,1338,215,128,5,"Queen's Park Oval, Port of Spain",199,5,0,85
+1174,1339,215,94,6,Newlands,243,4,0,85
+1175,1340,215,215,4,Kingsmead,243,6,0,85
+1176,1341,215,164,4,Shere Bangla National Stadium,214,6,0,85
+1177,1342,215,207,3,"Punjab Cricket Association Stadium, Mohali",256,7,0,85
+1178,1343,215,130,3,Buffalo Park,171,7,0,85
+1179,1343,215,131,3,Buffalo Park,171,7,0,85
+1180,1344,215,192,2,New Wanderers Stadium,238,8,0,85
+1181,1345,215,149,4,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",250,6,0,85
+1182,1346,215,172,2,Queens Sports Club,220,8,0,85
+1183,1347,215,168,4,Seddon Park,235,6,0,85
+1184,1348,215,165,6,Basin Reserve,250,4,0,85
+1185,1350,215,131,5,Dubai Sports City Cricket Stadium,250,5,0,85
+1186,1351,215,167,6,M Chinnaswamy Stadium,268,4,0,85
+1187,1352,215,166,2,Seddon Park,235,8,0,85
+1188,1353,215,148,3,R Premadasa Stadium,214,7,0,85
+1189,1355,215,119,8,"Beausejour Stadium, Gros Islet",208,2,0,85
+1190,1356,215,142,7,Rangiri Dambulla International Stadium,201,3,0,85
+1191,1357,215,108,6,"MA Chidambaram Stadium, Chepauk",225,4,0,85
+1192,1358,215,140,5,SuperSport Park,231,5,0,85
+1193,1359,215,99,8,Harare Sports Club,214,2,0,85
+1194,1360,215,166,4,"Brisbane Cricket Ground, Woolloongabba",218,6,0,85
+1195,1361,215,144,5,"Civil Service Cricket Club, Stormont",177,5,0,85
+1196,1362,215,190,3,Willowmoore Park,219,7,0,85
+1197,1363,215,186,1,Melbourne Cricket Ground,240,9,0,85
+1198,1364,215,146,4,Lord's,233,6,0,85
+1199,1364,215,147,4,Lord's,233,6,0,85
+1200,1365,215,172,4,Riverside Ground,214,6,0,85
+1201,1366,215,192,2,Feroz Shah Kotla,250,8,0,85
+1202,1367,215,174,3,Edgbaston,203,7,0,85
+1203,1368,215,184,7,Newlands,243,3,0,85
+1204,1369,215,137,6,"The Village, Malahide",250,4,0,85
+1205,1370,215,167,5,Madhavrao Scindia Cricket Ground,325,5,0,85
+1206,1371,215,158,4,Zahur Ahmed Chowdhury Stadium,183,6,0,85
+1207,1372,215,134,4,"Sabina Park, Kingston",221,6,0,85
+1208,1373,215,140,3,Shere Bangla National Stadium,214,7,0,85
+1209,1375,215,123,5,Clontarf Cricket Club Ground,250,5,0,85
+1210,1376,215,129,9,Rangiri Dambulla International Stadium,201,1,0,85
+1211,1378,215,223,3,SuperSport Park,231,7,0,85
+1212,1379,215,224,3,Trent Bridge,246,7,0,85
+1213,1380,215,196,3,Greater Noida Sports Complex Ground,250,7,0,85
+1214,1381,215,136,5,Western Australia Cricket Association Ground,227,5,0,85
+1215,1382,215,146,5,Bay Oval,250,5,0,85
+1216,1383,215,186,2,Melbourne Cricket Ground,240,8,0,85
+1217,1386,215,160,3,Riverside Ground,214,7,0,85
+1218,1387,215,136,3,Melbourne Cricket Ground,240,7,0,85
+1219,1388,215,143,7,Zohur Ahmed Chowdhury Stadium,250,3,0,85
+1220,1389,215,213,3,Sydney Cricket Ground,220,7,0,85
+1221,1390,215,162,4,Shere Bangla National Stadium,214,6,0,85
+1222,1391,215,161,2,Marrara Cricket Ground,250,8,0,85
+1223,1394,215,179,5,McLean Park,259,5,0,85
+1224,1395,215,190,5,"Civil Service Cricket Club, Stormont",177,5,0,85
+1225,1396,215,204,5,R Premadasa Stadium,214,5,0,85
+1226,1397,215,157,6,St George's Park,215,4,0,85
+1227,1398,215,173,3,Seddon Park,235,7,0,85
+1228,1400,215,151,4,Lord's,233,6,0,85
+1229,1402,215,117,9,Marrara Cricket Ground,250,1,0,85
+1230,1403,215,175,4,Adelaide Oval,230,6,0,85
+1231,1404,215,224,4,Riverside Ground,214,6,0,85
+1232,1405,215,164,6,Eden Park,219,4,0,85
+1233,1409,215,143,3,McLean Park,259,7,0,85
+1234,1410,215,134,6,Feroz Shah Kotla,250,4,0,85
+1235,1411,215,158,3,Sydney Cricket Ground,220,7,0,85
+1236,1412,215,163,3,Melbourne Cricket Ground,240,7,0,85
+1237,1413,215,147,9,Eden Park,219,1,0,85
+1238,1414,215,124,8,Gymkhana Club Ground,193,2,0,85
+1239,1415,215,153,5,Seddon Park,235,5,0,85
+1240,1416,215,166,4,Green Park,263,6,0,85
+1241,1417,215,191,2,R Premadasa Stadium,214,8,0,85
+1242,1418,215,131,3,ICC Academy,250,7,0,85
+1243,1420,215,168,5,Westpac Stadium,208,5,0,85
+1244,1421,215,157,5,Seddon Park,235,5,0,85
+1245,1422,215,122,3,"National Cricket Stadium, St George's",216,7,0,85
+1246,1424,215,154,3,"Brisbane Cricket Ground, Woolloongabba",218,7,0,85
+1247,1425,215,126,4,Gymkhana Club Ground,193,6,0,85
+1248,1426,215,148,8,Sharjah Cricket Stadium,250,2,0,85
+1249,1427,215,200,2,Providence Stadium,211,8,0,85
+1250,1428,215,199,4,M Chinnaswamy Stadium,268,6,0,85
+1251,1429,215,175,2,Sydney Cricket Ground,220,8,0,85
+1252,1430,215,152,1,"Kensington Oval, Bridgetown",187,9,0,85
+1253,1432,215,185,4,Sydney Cricket Ground,220,6,0,85
+1254,1433,215,168,3,Wankhede Stadium,256,7,0,85
+1255,1435,215,125,6,McLean Park,259,4,0,85
+1256,1436,215,189,4,Shere Bangla National Stadium,214,6,0,85
+1257,1437,215,133,6,"Brisbane Cricket Ground, Woolloongabba",218,4,0,85
+1258,1438,215,132,6,Sydney Cricket Ground,220,4,0,85
+1259,1440,215,126,8,Sydney Cricket Ground,220,2,0,85
+1260,1441,215,214,5,Shere Bangla National Stadium,214,5,0,85
+1261,1442,215,119,7,SuperSport Park,231,3,0,85
+1262,1443,215,171,5,"Grange Cricket Club Ground, Raeburn Place",250,5,0,85
+1263,1444,215,206,2,"Sardar Patel Stadium, Motera",224,8,0,85
+1264,1445,215,151,3,R Premadasa Stadium,214,7,0,85
+1265,1446,215,170,3,Melbourne Cricket Ground,240,7,0,85
+1266,1448,215,122,3,R Premadasa Stadium,214,7,0,85
+1267,1449,215,155,2,Edgbaston,203,8,0,85
